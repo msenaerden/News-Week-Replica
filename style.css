@@ -301,3 +301,16 @@ body{
     border-bottom-left-radius: 5px;
     margin: 0 !important;
 }
+
+.grid-2-news .grid-1-news .card-type3{
+    background-color: #000000 !important;
+    
+}
+.grid-2-news .grid-1-news .card-type3 p{
+    color: #6c757d!important;
+    font-size: 13px;
+    font-weight: lighter;
+    padding: 5px !important;
+    background-color: #c2d4d7 !important;
+
+}
