@@ -135,8 +135,9 @@ body{
     width: 100%;
 }
 #news p{
-    color: gray;
+    color: #333;
     margin-top: 10px;
+    font-family: 'Arial', 'Roboto','Roboto Condensed',sans-serif;
 }
 #news .news-container .grid-1 .grid-1-news{
     margin-bottom: 10px;
@@ -275,4 +276,28 @@ body{
     font-weight: bold;
     color: black;
     font-family: 'Roboto','Roboto Condensed',  sans-serif;
+}
+
+.ads-card div .ads-card2 p{
+    color: rgb(32, 128, 213) !important;
+}
+.ads-card div .ads-card2{
+    margin-bottom: 0;
+}
+
+.ads-card .ads-top{
+    margin: 0 !important;
+}
+.ads-card{
+    margin-bottom: 1.5rem !important;
+}
+.ads-card .ads-bottom{
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    padding: 1.5rem;
+    border-bottom-right-radius: 5px;
+    border-color: rgb(230, 230, 230);
+    border-bottom-left-radius: 5px;
+    margin: 0 !important;
 }
